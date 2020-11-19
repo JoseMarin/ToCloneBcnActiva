@@ -6,7 +6,8 @@ public class mainApp {
 		System.out.println("Jose Marín - Dev 1");
 		System.out.println("Ferran Torres - Dev 2");
 		System.out.println("Ferran Torres - Dev 3");
-
+		System.out.println("Gerard Puig - Dev4");
+		
 	}
 
 }
